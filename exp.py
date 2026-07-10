@@ -13,3 +13,4 @@ def factorial(n):
 num = 5
 print("Factorial of",num,"is",
 factorial(num))
+hey this is my first practical
